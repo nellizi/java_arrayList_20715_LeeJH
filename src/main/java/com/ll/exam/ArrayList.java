@@ -41,6 +41,6 @@ public class ArrayList {
     }
 
     public int getArrayLength() {
-        return 2;
+        return datum.length;
     }
 }
